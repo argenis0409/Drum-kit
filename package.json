@@ -1,0 +1,23 @@
+{
+  "name": "drum-kit",
+  "version": "1.0.0",
+  "description": "Is a mini project built with HTML & CSS. ## General Info Once you click in any of the keys in the UI you will heard a lovely sound.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/Drum-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/Drum-kit/issues"
+  },
+  "homepage": "https://github.com/argenis0409/Drum-kit#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
